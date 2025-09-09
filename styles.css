@@ -1,0 +1,14 @@
+.python_pic {
+width: max-content;
+height: 500px;
+}
+
+.caro {
+    max-width: 800px; /* adjust size */
+    margin: auto;
+  }
+  
+  .caro-img {
+    border-radius: 10px; /* optional: rounded corners */
+  }
+  
